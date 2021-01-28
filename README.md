@@ -4,11 +4,11 @@ Shibboleths have been used throughout history in many societies as passwords, si
 
 Token contract address:
 0x619D5184BeBfccAe29677aF50a94b194EA6857b8
-Token balance:
-Wallet on exchange:
-1 649 780.6723 
-Active orders:
-142 870.4912 
+Token balance:::
+Wallet on exchange: 1 649 780.6723 
+
+Active orders:142 870.4912
+ 
 Withdrawn:
 20 
 Sold on the market:
